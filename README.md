@@ -1,5 +1,4 @@
 # React-based-calender-application
-# Calendar Application for Communication Tracking
 
 ## Objective
 This project is a React-based Calendar Application designed to help organizations efficiently track their communications with other companies. The tool centralizes past interactions, plans future communications, and manages the frequency of engagements using predefined schedules, ensuring timely and consistent follow-ups.
@@ -46,7 +45,6 @@ Live Demo:
 - Communication Frequency Report: Visual representation of communication methods over time.
 - Engagement Effectiveness Dashboard: Metrics on the success of communication methods.
 - Overdue Communication Trends: Trendline/heatmap of overdue communications.
-- Downloadable Reports: Export as PDF or CSV.
 - Real-Time Activity Log: Live feed of communication activities.
 
 ---
@@ -61,7 +59,7 @@ Ensure you have the following installed:
 ### Steps to Set Up Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calendar-application.git
+   git clone https://github.com/Sriram28122003/React-based-calendar-application.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -70,14 +68,12 @@ Ensure you have the following installed:
 3. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn install
+  
    ```
 4. Start the development server:
    ```bash
    npm start
-   # or
-   yarn start
+  
    ```
 5. Open the application in your browser:
    ```
@@ -89,8 +85,6 @@ The application can be deployed on platforms like Vercel, Netlify, or GitHub Pag
 1. Build the project:
    ```bash
    npm run build
-   # or
-   yarn build
    ```
 2. Follow the deployment instructions for your platform.
 
@@ -126,36 +120,15 @@ To test the application, use the provided sample data in the `src/sample-data` d
 - Run tests using:
   ```bash
   npm test
-  # or
-  yarn test
   ```
 - Testing covers core functionality such as communication logging, overdue notifications, and calendar rendering.
 
 ---
 
-## Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
+## Feel free to reach out any questions or feedback
+
+Email - sriramgoud1228@gmail.com
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-
-Repository: [GitHub Repository](https://github.com/your-username/calendar-application)
+## Thank you

@@ -7,7 +7,7 @@ This project is a React-based Calendar Application designed to help organization
 ---
 Live Demo: 
 
-(https://srirammarka-entnt-react-calender-app.netlify.app)
+[Live Application](https://srirammarka-entnt-react-calender-app.netlify.app)
 
 ---
 

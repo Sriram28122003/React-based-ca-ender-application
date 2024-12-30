@@ -5,6 +5,10 @@
 This project is a React-based Calendar Application designed to help organizations efficiently track their communications with other companies. The tool centralizes past interactions, plans future communications, and manages the frequency of engagements using predefined schedules, ensuring timely and consistent follow-ups.
 
 ---
+Live Demo: 
+[srirammarka-entnt-react-calender-app.netlify.app]
+
+---
 
 ## Features
 
@@ -152,6 +156,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Live Demo: srirammarka-entnt-react-calender-app.netlify.app
 
 Repository: [GitHub Repository](https://github.com/your-username/calendar-application)
